@@ -50,7 +50,8 @@ repo-root/
 |
 │--- Currency Converter/
 │   │-- index.html
-│   │-- script.js
+│   │-- codes.js
+│   │-- converter.js
 │   │-- style.css
 │   │-- README.md
 |
@@ -62,7 +63,7 @@ repo-root/
 |
 │--- To-Do List App/
 │   |-- index.html
-│   │-- script.js
+│   │-- index.js
 │   │-- style.css
 │   │-- README.md
 |
@@ -74,7 +75,7 @@ repo-root/
 |
 │--- Wordle Game/
 │   |-- index.html
-│   │-- script.js
+│   │-- index.js
 │   │-- style.css
 │   │-- README.md
 └── 
