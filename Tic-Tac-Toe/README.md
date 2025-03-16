@@ -24,7 +24,7 @@ A simple **Tic Tac Toe** game designed with a **pastel pink** theme. It’s a tw
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-game.git
+   git clone https://github.com/anushka369/javascript-mini-projects/tic-tac-toe.git
    
 2. Open index.html in your browser to play the game. 🌐
 
