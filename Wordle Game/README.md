@@ -37,6 +37,8 @@ forEach loops, maps, switch statements, sounds, and API calls** to create an eng
 
 3. Keep guessing until you find the correct word or run out of attempts!
 
+4. For another round of the game, press the **Reload Game** button.
+
 ---
 
 ## 🏗️ How to Run the Project
