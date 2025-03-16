@@ -78,7 +78,8 @@ repo-root/
 │   │-- index.js
 │   │-- style.css
 │   │-- README.md
-└── 
+|
+└── README.md
 ```
 
 ---
